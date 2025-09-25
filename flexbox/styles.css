@@ -9,7 +9,7 @@
     justify-content: center;
 }
 
-.red, .yellow, .blue {
+.red, .yellow, .blue, .magenta, .green {
     height: 200px;
     width: 200px;
     display: flex;
@@ -32,4 +32,15 @@
     background-color: blue;
     align-self: flex-end;
     /* order: 3; */
+}
+
+.magenta {
+    background-color: magenta;
+    align-self: flex-start;
+    order: -2;
+}
+
+.green {
+    background-color: green;
+    /* order: 1; */
 }
