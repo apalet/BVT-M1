@@ -1,2 +1,2 @@
-# Bay Valley Tech - Module 1 
-Course Exercises
+# First FlexBox example
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
